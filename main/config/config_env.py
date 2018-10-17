@@ -1,7 +1,8 @@
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
 
 def get(key):
-        load_dotenv()
-        return os.getenv(key)
+    return os.getenv(key)
