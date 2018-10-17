@@ -3,7 +3,6 @@
 import os
 import json
 from main.config import config_env
-from main.my_rabbitmq import MessageBroker
 
 
 def get_routing_key(exchange):
@@ -16,7 +15,6 @@ def get_routing_key(exchange):
 
 
 def get_exchange(exchange_path):
-
     if (os.path.isdir(exchange_path)):
 
         files = os.listdir(exchange_path)
@@ -37,21 +35,22 @@ def read_json(path):
     return d
 
 
-def sent_to_exchange(path, exchange):
+def send_to_exchange(path, exchange):
     files = get_routing_key(path)
     for file in files:
         json_path = '{}/{}.{}'.format(path, file, 'json')
         messages = [str(message) for message in read_json(json_path)]
-        MessageBroker.sent_by_direct_exchange(exchange, file, messages)
+        from main.my_rabbitmq import Publisher
+        publisher = Publisher()
+        publisher.send_by_direct_exchange(exchange, file, messages)
 
 
-def sent(exchange_path):
+def send(exchange_path):
     exchanges = get_exchange(exchange_path)
     for exchange in exchanges:
         path = '{}/{}'.format(exchange_path, exchange)
         print("Start sent msg to exchange: {}".format(exchange))
-        sent_to_exchange(path, exchange)
+        send_to_exchange(path, exchange)
 
 
-__exchange = config_env.get('EXCHANGE_DIR')
-sent(__exchange)
+send(config_env.get("EXCHANGE_DIR"))
