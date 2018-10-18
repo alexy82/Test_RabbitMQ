@@ -4,5 +4,10 @@ import os
 load_dotenv()
 
 
-def get(key):
-    return os.getenv(key)
+class Config(object):
+    AMQP_URL = "AMQP_URL"
+    EXCHANGE_DIRECTORY = "EXCHANGE_DIR"
+
+    @staticmethod
+    def get(key):
+        return os.getenv(key)

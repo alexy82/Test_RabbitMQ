@@ -12,48 +12,73 @@
     <SUITE FILE_PATH="coverage/rabbitMQ_task$test.coverage" NAME="test Coverage Results" MODIFIED="1539764758395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/rabbitMQ_task$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1539768508447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/rabbitMQ_task$sent__1_.coverage" NAME="sent (1) Coverage Results" MODIFIED="1539772765057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/rabbitMQ_task$sent.coverage" NAME="sent Coverage Results" MODIFIED="1539768569423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/rabbitMQ_task$receive__1_.coverage" NAME="receive (1) Coverage Results" MODIFIED="1539774356529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/rabbitMQ_task$receive.coverage" NAME="receive Coverage Results" MODIFIED="1539764169911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/rabbitMQ_task$my_rabbitmq.coverage" NAME="my_rabbitmq Coverage Results" MODIFIED="1539772695957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/rabbitMQ_task$send.coverage" NAME="send Coverage Results" MODIFIED="1539774350272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$receive__1_.coverage" NAME="receive (1) Coverage Results" MODIFIED="1539793720953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$sent.coverage" NAME="sent Coverage Results" MODIFIED="1539834177631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$receive.coverage" NAME="receive Coverage Results" MODIFIED="1539834242303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$Publisher.coverage" NAME="Publisher Coverage Results" MODIFIED="1539799068334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/rabbitMQ" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$my_rabbitmq.coverage" NAME="my_rabbitmq Coverage Results" MODIFIED="1539775480423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$send.coverage" NAME="send Coverage Results" MODIFIED="1539799186213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/rabbitMQ_task$Consumer.coverage" NAME="Consumer Coverage Results" MODIFIED="1539800595392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/rabbitMQ" />
     <SUITE FILE_PATH="coverage/rabbitMQ_task$config.coverage" NAME="config Coverage Results" MODIFIED="1539761261760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="128605566">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="_bootstrap&gt;" value="3" />
+          <entry key="cfg" value="1" />
           <entry key="env" value="1" />
-          <entry key="json" value="2" />
-          <entry key="py" value="5" />
+          <entry key="json" value="3" />
+          <entry key="md" value="1" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="2" />
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="5" />
+          <entry key="PyRemoteDebug" value="3" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="8" />
+          <entry key="dummy" value="56" />
           <entry key="env" value="83" />
           <entry key="json" value="5" />
-          <entry key="py" value="4188" />
+          <entry key="py" value="8370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="5" />
-          <entry key="PLAIN_TEXT" value="91" />
-          <entry key="Python" value="4188" />
+          <entry key="PLAIN_TEXT" value="139" />
+          <entry key="Python" value="8370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -61,55 +86,108 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/send.py">
+        <entry file="file://$PROJECT_DIR$/main/JsonProcess/Message.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="398">
+              <caret line="62" column="68" selection-start-line="62" selection-start-column="68" selection-end-line="62" selection-end-column="68" />
               <folding>
                 <element signature="e#16#25#0" expanded="true" />
-                <marker date="1539773641289" expanded="true" signature="75:1427" ph="..." />
-                <marker date="1539773641289" expanded="true" signature="362:608" ph="..." />
-                <marker date="1539773641289" expanded="true" signature="672:755" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/my_rabbitmq.py">
+        <entry file="file://$PROJECT_DIR$/test/sent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+            <state relative-caret-position="221">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
               <folding>
-                <element signature="e#15#26#0" expanded="true" />
-                <marker date="1539774333507" expanded="true" signature="268:270" ph="..." />
-                <marker date="1539774333507" expanded="true" signature="436:476" ph="..." />
+                <element signature="e#0#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchanges/test/test.json">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/main/rabbitMQ/Consumer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/-1171821208/apport_python_hook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/rabbitMQ/ConnectionManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1539833990816" expanded="true" signature="148:153" ph="..." />
+                <marker date="1539833990816" expanded="true" signature="191:196" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/config/config_env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+                <marker date="1539833990837" expanded="true" signature="145:164" ph="..." />
+                <marker date="1539833990837" expanded="true" signature="182:191" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/rabbitMQ/Publisher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+                <marker date="1539834369868" expanded="true" signature="100:105" ph="..." />
+                <marker date="1539834369868" expanded="true" signature="428:580" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/1405239563/pika/spec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1199">
+              <caret line="2076" column="253" selection-start-line="2076" selection-start-column="23" selection-end-line="2076" selection-end-column="253" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/receive.py">
+        <entry file="file://$PROJECT_DIR$/test/receive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchanges/test/rabbitMQ.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <marker date="1539834241934" expanded="true" signature="80:170" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,20 +196,7 @@
         <entry file="file://$PROJECT_DIR$/main/config/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/config/config_env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <marker date="1539766510419" expanded="true" signature="72:98" ph="..." />
-              </folding>
+              <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -159,12 +224,22 @@
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/main/config/config.py" />
         <option value="$PROJECT_DIR$/main/config/my_rabbitmq.py" />
-        <option value="$PROJECT_DIR$/main/config/.env" />
         <option value="$PROJECT_DIR$/main/test.py" />
         <option value="$PROJECT_DIR$/main/sent.py" />
-        <option value="$PROJECT_DIR$/main/send.py" />
-        <option value="$PROJECT_DIR$/main/receive.py" />
+        <option value="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/1405239563/pika/connection.py" />
         <option value="$PROJECT_DIR$/main/my_rabbitmq.py" />
+        <option value="$PROJECT_DIR$/main/rabbitMQ/my_rabbitmq.py" />
+        <option value="$PROJECT_DIR$/main/receive.py" />
+        <option value="$PROJECT_DIR$/main/config/.env" />
+        <option value="$PROJECT_DIR$/main/send.py" />
+        <option value="$PROJECT_DIR$/main/Message.py" />
+        <option value="$PROJECT_DIR$/main/rabbitMQ/Consumer.py" />
+        <option value="$PROJECT_DIR$/main/JsonProcess/Message.py" />
+        <option value="$PROJECT_DIR$/main/config/config_env.py" />
+        <option value="$PROJECT_DIR$/main/rabbitMQ/ConnectionManager.py" />
+        <option value="$PROJECT_DIR$/test/sent.py" />
+        <option value="$PROJECT_DIR$/test/receive.py" />
+        <option value="$PROJECT_DIR$/main/rabbitMQ/Publisher.py" />
       </list>
     </option>
   </component>
@@ -218,7 +293,19 @@
             <path>
               <item name="rabbitMQ_task" type="b2602c69:ProjectViewProjectNode" />
               <item name="rabbitMQ_task" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="JsonProcess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitMQ_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitMQ_task" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitMQ_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitMQ_task" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,11 +321,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\JsonProcess" />
+      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\test" />
+      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\rabbitMQ" />
       <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main" />
       <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\config" />
-      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\config" />
-      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\exchanges" />
-      <recent name="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,8 +340,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.receive (1)">
-    <configuration name="my_rabbitmq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.receive">
+    <configuration name="Consumer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rabbitMQ_task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,12 +349,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/rabbitMQ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/my_rabbitmq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/rabbitMQ/Consumer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="receive (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Publisher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rabbitMQ_task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,12 +371,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/rabbitMQ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/receive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/rabbitMQ/Publisher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="receive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rabbitMQ_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/receive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,29 +420,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/send.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sent (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="rabbitMQ_task" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\send.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\JsonProcess\Message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,12 +437,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\nhl71\PycharmProjects\rabbitMQ_task\main\send.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/sent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,19 +452,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sent" />
-      <item itemvalue="Python.sent (1)" />
-      <item itemvalue="Python.receive (1)" />
-      <item itemvalue="Python.my_rabbitmq" />
       <item itemvalue="Python.send" />
+      <item itemvalue="Python.Publisher" />
+      <item itemvalue="Python.sent" />
+      <item itemvalue="Python.receive" />
+      <item itemvalue="Python.Consumer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.receive (1)" />
-        <item itemvalue="Python.send" />
-        <item itemvalue="Python.sent (1)" />
-        <item itemvalue="Python.my_rabbitmq" />
+        <item itemvalue="Python.receive" />
         <item itemvalue="Python.sent" />
+        <item itemvalue="Python.Consumer" />
+        <item itemvalue="Python.send" />
+        <item itemvalue="Python.Publisher" />
       </list>
     </recent_temporary>
   </component>
@@ -398,12 +485,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.652459" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33442622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,6 +501,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,24 +518,40 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main/config/config_env.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exchanges/test/test.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test.py">
+    <entry file="file://$PROJECT_DIR$/main/test.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/1405239563/pika/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="3519">
+          <caret line="216" column="47" selection-start-line="216" selection-start-column="47" selection-end-line="216" selection-end-column="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/exchanges/test/rabbitMQ.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -456,53 +560,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/config/config_env.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/201545290/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <marker date="1539766510419" expanded="true" signature="72:98" ph="..." />
-          </folding>
+        <state relative-caret-position="365">
+          <caret line="802" column="17" lean-forward="true" selection-start-line="802" selection-start-column="17" selection-end-line="802" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/rabbitMQ/my_rabbitmq.py" />
+    <entry file="file://$PROJECT_DIR$/exchanges/test/test.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/-1171821208/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/config/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
+          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/my_rabbitmq.py">
+    <entry file="file://$PROJECT_DIR$/main/config/config_env.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
-            <element signature="e#15#26#0" expanded="true" />
-            <marker date="1539774333507" expanded="true" signature="268:270" ph="..." />
-            <marker date="1539774333507" expanded="true" signature="436:476" ph="..." />
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1539833990837" expanded="true" signature="145:164" ph="..." />
+            <marker date="1539833990837" expanded="true" signature="182:191" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/send.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-2007602156/1405239563/pika/spec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="-1199">
+          <caret line="2076" column="253" selection-start-line="2076" selection-start-column="23" selection-end-line="2076" selection-end-column="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/JsonProcess/Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="62" column="68" selection-start-line="62" selection-start-column="68" selection-end-line="62" selection-end-column="68" />
           <folding>
             <element signature="e#16#25#0" expanded="true" />
-            <marker date="1539773641289" expanded="true" signature="75:1427" ph="..." />
-            <marker date="1539773641289" expanded="true" signature="362:608" ph="..." />
-            <marker date="1539773641289" expanded="true" signature="672:755" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/receive.py">
+    <entry file="file://$PROJECT_DIR$/main/rabbitMQ/ConnectionManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1539833990816" expanded="true" signature="148:153" ph="..." />
+            <marker date="1539833990816" expanded="true" signature="191:196" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/rabbitMQ/Publisher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+            <marker date="1539834369868" expanded="true" signature="100:105" ph="..." />
+            <marker date="1539834369868" expanded="true" signature="428:580" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/rabbitMQ/Consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/receive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <marker date="1539834241934" expanded="true" signature="80:170" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
