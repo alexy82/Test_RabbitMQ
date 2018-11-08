@@ -168,11 +168,11 @@
 python command/exchange.py -f <filename> -a <action> -e <exchange_name>
 ```
 
-|       |Kiểu dữ liệu  | Giả thích |Mặc định |
+|       |Kiểu dữ liệu  | Giải thích |Mặc định |
 |--------|-----| -----|-----|
-|-f     |String| đường dẫn 1 file config exchange khác (file python)  | file exchange_config.py trong hệ thống|
-|-a   |  String| chỉ được chọn **remove**: xóa exchange  **declare**: tạo exchange, **bind**: bind exchange      |  **declare** |
-| -e| String| tên exchange cụ thể thể thực hiện 1 action     |    tất cả exchange |
+|<pre>-f, --file</pre>     |String| đường dẫn 1 file config exchange khác (file python)  | file exchange_config.py trong hệ thống|
+|<pre>-a, --action</pre>  |  String| chỉ được chọn:<br> **remove**: xóa exchange <br> **declare**: tạo exchange<br> **bind**: bind exchange      |  **declare** |
+| <pre>-e, --exchange</pre>| String| tên exchange cụ thể thể thực hiện 1 action     |    tất cả exchange |
 
 ## Declare queue with command line
  
@@ -182,14 +182,14 @@ python command/exchange.py -f <filename> -a <action> -e <exchange_name>
 python command/queue.py -f <filename> -a <action> -q <queue_name> -p <pattern> -e <if_empty> -u <if_unused>
 ```
 
-|        | Kiểu dữ liệu | Giả thích |Mặc định |
+|        | Kiểu dữ liệu | Giải thích |Mặc định |
 |--------|-----| -----|-----|
-|-f    |String | đường dẫn 1 file config queue khác (file python) | file queue_config.py trong hệ thống|
-|-a    | String| chỉ được chọn **remove**: xóa queue  **declare**: tạo queue, **bind**: bind queue , **purge**: purge queue     |  **declare** |
-| -q|String | tên queue cụ thể thể thực hiện 1 action     |    tất cả queue |
-|-p|String|Pattern để thực hiện 1 action với các queue match với pattern **Lưu ý** -q và -p không thể dùng chung|tất cả queue|
-|-e|Boolean| if_empty chỉ dùng chung với action **remove** xóa các queue nếu queue đó không chưa message (rỗng)|False|
-|-u|Boolean| if_unused chỉ dùng chung với action **remove** xóa các queue nếu không có consumer nào connect đến |False|
+|<pre>-f, --file</pre>    |String | đường dẫn 1 file config queue khác (file python) | file queue_config.py trong hệ thống|
+|<pre>-a, --action</pre>    | String| chỉ được chọn:<br> **remove**: xóa queue  <br>**declare**: tạo queue<br> **bind**: bind queue <br> **purge**: purge queue     |  **declare** |
+| <pre>-q, --queue</pre>|String | tên queue cụ thể thể thực hiện 1 action     |    tất cả queue |
+|<pre>-p, --pattern</pre>|String|Pattern để thực hiện 1 action với các queue match với pattern<br> **Lưu ý** -q và -p không thể dùng chung|tất cả queue|
+|<pre>-e, --empty</pre>|Boolean| if_empty chỉ dùng chung với action **remove** xóa các queue nếu queue đó không chưa message (rỗng)|False|
+|<pre>-u, --unused</pre>|Boolean| if_unused chỉ dùng chung với action **remove** xóa các queue nếu không có consumer nào connect đến |False|
 
 
 
