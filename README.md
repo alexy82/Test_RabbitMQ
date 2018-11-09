@@ -173,6 +173,8 @@ python command/exchange.py -f <filename> -a <action> -e <exchange_name>
 |<pre>-f, --file</pre>     |String| đường dẫn 1 file config exchange khác (file python)  | file exchange_config.py trong hệ thống|
 |<pre>-a, --action</pre>  |  String| chỉ được chọn:<br> **remove**: xóa exchange <br> **declare**: tạo exchange<br> **bind**: bind exchange      |  **declare** |
 | <pre>-e, --exchange</pre>| String| tên exchange cụ thể thể thực hiện 1 action     |    tất cả exchange |
+
+
 **Example**
 
 Xóa exchange **test**
@@ -205,6 +207,8 @@ python command/queue.py -f <filename> -a <action> -q <queue_name> -p <pattern> -
 |<pre>-p, --pattern</pre>|String|Pattern để thực hiện 1 action với các queue match với pattern<br> **Lưu ý** -q và -p không thể dùng chung|tất cả queue|
 |<pre>-e, --empty</pre>|Boolean| if_empty chỉ dùng chung với action **remove** xóa các queue nếu queue đó không chưa message (rỗng)|False|
 |<pre>-u, --unused</pre>|Boolean| if_unused chỉ dùng chung với action **remove** xóa các queue nếu không có consumer nào connect đến |False|
+
+
 **Example**
 
 Xóa queue **test**
@@ -220,10 +224,10 @@ python command/exchange.py --action remove --queue test -u
 ```
 Xóa queue từ pattern
 ```bash
-python command/exchange.py -p test*
+python command/exchange.py -a remove -p test*
 ```
 ```bash
-python command/exchange.py --pattern test*
+python command/exchange.py --action remove --pattern test*
 ```
 
 
